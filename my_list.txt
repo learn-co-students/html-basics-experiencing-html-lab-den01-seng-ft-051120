@@ -1,0 +1,5 @@
+"Pokemon"
+"The Legend of Zelda"
+"Mario"
+"Donkey Kong"
+"Metroid"
